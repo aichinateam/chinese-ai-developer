@@ -11,7 +11,9 @@
 **2. 如何提交自己的项目**
 
 发 Pull Request 或 Issue 即可， 也欢迎大家在[中国 AI 开发者项目列表【AIChina 官方搜集帖】](https://aichina.io/d/4)这个帖子下面回复<br/>
-（入选标准：不限）   
+
+该列表会在 Github 和 aichina.io 同步更新 
+
 提交格式：
 ```
 #### 名字 - [Github](), [博客]()
@@ -31,27 +33,14 @@ Github 和 博客非必填。更多介绍也是非必填。
 （名字按时间排序，最新添加的在最上面）
 
 
-### 2018年7月16号添加
+### 2018年7月27号添加
 ---
 
-#### brucefeynman - [Github](https://github.com/brucefeynman),[博客](http://brucediscovery.com/)
-* :white_check_mark: [51% 双花攻击分析](http://www.cryptoattack.io/)：分析不同数字货币被 51% 双花攻击的概率 - [更多介绍](http://www.cryptoattack.io/about)
+#### 梁劲（Jim Liang） 
+* :white_check_mark: [Getting Started With MachineLearning](https://pan.baidu.com/s/1tNXYQNadAsDGfPvuuj7_Tw)：图文并茂地介绍了机器学习中的相关概念、数学知识和各种经典算法。 - [更多介绍](https://www.jiqizhixin.com/articles/2018-04-30-4)
 
-### 2018年7月10号添加
----
-
-#### Wang Lingsong - [Github](https://github.com/wanglingsong)
-* :white_check_mark: [ERC20 Token Exchagne](https://wanglingsong.github.io/ERC20ExchangeReactUI/)：基于以太坊的去中心化 ERC20 代币交易所应用（需先安装 Chrome 扩展，请看更多介绍） - [更多介绍](https://github.com/wanglingsong/ERC20Exchange)
-
-#### 易墨 - [Github](https://github.com/yimogit/), [博客](https://www.yimo.link/)
-- :white_check_mark: [metools](https://tools.yimo.link/#/home)：工具集（base64转码，markdown转HTML，二维码生成和识别，数字转人民币大写（壹佰贰拾叁元整）等) - [更多介绍](https://github.com/yimogit/metools-plugin)
-
-### 2018年7月6号添加
----
-
-#### 王文杰 - [Github](https://github.com/wangwenjie1314), [博客](http://xiab.club/)
-* :white_check_mark: [图文进化论](http://mp.millionshow.cn/)：记录美好图文（微信访问）
-
+#### howie6879 - [Github](https://github.com/howie6879), [博客](https://www.howie6879.cn/)
+* :white_check_mark: [mlhub123.com](https://www.mlhub123.com/)：机器学习&深度学习 资源导航网站 - [更多介绍](https://www.v2ex.com/t/472603)
 
 
 ---
