@@ -21,6 +21,12 @@
 ```
 Github 和 博客非必填。更多介绍也是非必填。
 
+示例：
+```
+#### howie6879 - [Github](https://github.com/howie6879), [博客](https://www.howie6879.cn/)
+* :white_check_mark: [mlhub123.com](https://www.mlhub123.com/)：机器学习&深度学习 资源导航网站 - [更多介绍](https://www.v2ex.com/t/472603)
+```
+
 **3. 项目有 3 种状态**          
 
 | 开发中 | 已上线 | 已关闭 |
