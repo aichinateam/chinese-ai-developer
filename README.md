@@ -3,18 +3,28 @@
 
 
 **1. 为什么有这个表**    
-作为开发者其实比较好奇其他人在做什么业余项目（不管目的是做到盈利/玩票/试试看）               
-所以特意建了这个库。欢迎各位开发者把自己的项目加进来~ 发 Pull Request 或 Issue 即可 <br/>
-（入选标准：必须是网站或App，不能是开发者工具或论坛型网站）   
+启发与这个项目 [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)，
+于是有了这个列表，主要想汇总下作为中国的 AI 开发者大家都在做哪些有趣的项目（如果方便分享的话）。一方面作为开发者可以展示下自己的项目，另一方面通过分享交流大家可以各自获得启发。
+欢迎各位 AI 开发者把自己的项目加进来~
 
-**2. 项目有 3 种状态**          
+**2. 如何提交自己的项目**
+ 发 Pull Request 或 Issue 即可， 也欢迎大家在[中国 AI 开发者项目列表【AIChina 官方搜集帖】](https://aichina.io/d/4)这个帖子下面回复<br/>
+（入选标准：不限）   
+提交格式：
+```
+#### 名字 - [Github](), [博客]()
+* :white_check_mark: [网站/App名]()：一句话说明(尽量保持在一行内) - [更多介绍]()
+```
+Github 和 博客非必填。更多介绍也是非必填。
+
+**3. 项目有 3 种状态**          
 
 | 开发中 | 已上线 | 已关闭 |
 |--------|--------|--------|
 | :clock8: | :white_check_mark: | :x: |
 
 
-## 3. 项目列表
+## 4. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
 
@@ -43,33 +53,7 @@
 
 ---
 
-#### 4. 另外
-推荐一些对独立开发者有帮助的网站：    
-
-[英文]        
-* [Indie Hacker](https://www.indiehackers.com/)
-* [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
-* [Awesome Indie](https://github.com/mezod/awesome-indie)
-* [NomadList](https://nomadlist.com/) - 远程工作时可以用 NomadList 挑选去哪个城市
-* [RemoteOK](https://remoteok.io/) - 找远程工作
-* [MicroConf 视频](http://www.microconf.com/starter/past-videos/)
-* [Stripe Atlas Guide](https://stripe.com/atlas/guides)
-* [Opps Daily - 这家的 newsletter 做得好，推荐订阅](https://www.oppslist.com/)
-* [Master of Scale](https://mastersofscale.com)
-
-[中文]    
-* [Sideidea](http://sideidea.com/) - 分享独立开发者的盈利故事
-* [湾区论坛](https://wanqu.io/?utm_source=github-chinese-independent-developer) - 湾区日报的论坛，有很多开发者会来论坛里分享自己刚做的项目，氛围很好
-* [利器](http://liqi.io/creators/)
-* [PriceTag 的独立开发者采访（公众号 PriceTagApp）](https://mp.weixin.qq.com/s/WZ6ULaATxIA1fZOUXZVobA)
-* [计算机速成课 - Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
-* [v2ex 论坛 - 分享创造板块](https://www.v2ex.com/go/create)
-
-#### 5. 值得关注的 Twitter 账号
-* [Patrick McKenzie (@patio11)](https://twitter.com/patio11)
-* [Pieter Levels (@levelsio)](https://twitter.com/levelsio)  - 做了 Nomadlist 和 RemoteOK 等产品 - [更多介绍](https://twitter.com/levelsio/status/968027544103473152)  
-* [Courtland Allen (@csallen)](https://twitter.com/csallen) - Indie Hacker 创始人
 
 #### 6. 最后
-本库创建者 1c7 也做了 [sideidea.com](http://sideidea.com/)<br/>
-**sideidea - 独立开发者分享做产品盈利的故事**<br/>
+本库创建者 aichinateam 也做了 [aichina.io](https://aichina.io/)<br/>
+**aichina.io - 在这里尽情讨论有关人工智能的一切！**<br/>
