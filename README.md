@@ -1,5 +1,9 @@
 ## 中国 AI 开发者项目列表
-聚合所有中国 AI 开发者的项目                  
+聚合所有中国 AI 开发者的项目   
+
+列表地址：
+[aichina.io](https://aichina.io/d/4)
+[GitHub](https://github.com/aichinateam/chinese-ai-developer)
 
 
 **1. 为什么有这个表**    
@@ -10,7 +14,7 @@
 
 **2. 如何提交自己的项目**
 
-发 Pull Request 或 Issue 即可， 也欢迎大家在[中国 AI 开发者项目列表【AIChina 官方搜集帖】](https://aichina.io/d/4)这个帖子下面回复<br/>
+发 Pull Request 或 Issue 即可， 也欢迎大家在[中国 AI 开发者项目列表【AIChina 官方搜集帖】](https://aichina.io/d/4)这个帖子下面回复
 
 该列表会在 GitHub 和 aichina.io 同步更新 
 
@@ -53,5 +57,5 @@ GitHub 和 博客非必填。更多介绍也是非必填。
 
 
 #### 6. 最后
-本库创建者 aichinateam 也做了 [aichina.io](https://aichina.io/)<br/>
-**aichina.io - 在这里尽情讨论有关人工智能的一切！**<br/>
+本库创建者 aichinateam 也做了 [aichina.io](https://aichina.io/)
+**aichina.io - 在这里尽情讨论有关人工智能的一切！**
