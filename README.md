@@ -12,18 +12,18 @@
 
 发 Pull Request 或 Issue 即可， 也欢迎大家在[中国 AI 开发者项目列表【AIChina 官方搜集帖】](https://aichina.io/d/4)这个帖子下面回复<br/>
 
-该列表会在 Github 和 aichina.io 同步更新 
+该列表会在 GitHub 和 aichina.io 同步更新 
 
 提交格式：
 ```
-#### 名字 - [Github](), [博客]()
+#### 名字 - [GitHub](), [博客]()
 * :white_check_mark: [网站/App名]()：一句话说明(尽量保持在一行内) - [更多介绍]()
 ```
-Github 和 博客非必填。更多介绍也是非必填。
+GitHub 和 博客非必填。更多介绍也是非必填。
 
 示例：
 ```
-#### howie6879 - [Github](https://github.com/howie6879), [博客](https://www.howie6879.cn/)
+#### howie6879 - [GitHub](https://github.com/howie6879), [博客](https://www.howie6879.cn/)
 * :white_check_mark: [mlhub123.com](https://www.mlhub123.com/)：机器学习&深度学习 资源导航网站 - [更多介绍](https://www.v2ex.com/t/472603)
 ```
 
@@ -45,7 +45,7 @@ Github 和 博客非必填。更多介绍也是非必填。
 #### 梁劲（Jim Liang） 
 * :white_check_mark: [Getting Started With MachineLearning](https://pan.baidu.com/s/1tNXYQNadAsDGfPvuuj7_Tw)：图文并茂地介绍了机器学习中的相关概念、数学知识和各种经典算法。 - [更多介绍](https://www.jiqizhixin.com/articles/2018-04-30-4)
 
-#### howie6879 - [Github](https://github.com/howie6879), [博客](https://www.howie6879.cn/)
+#### howie6879 - [GitHub](https://github.com/howie6879), [博客](https://www.howie6879.cn/)
 * :white_check_mark: [mlhub123.com](https://www.mlhub123.com/)：机器学习&深度学习 资源导航网站 - [更多介绍](https://www.v2ex.com/t/472603)
 
 
