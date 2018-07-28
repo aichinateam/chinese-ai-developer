@@ -21,7 +21,7 @@
 提交格式：
 ```
 #### 名字 - [GitHub](), [博客]()
-* :white_check_mark: [网站/App名]()：一句话说明(尽量保持在一行内) - [更多介绍]()
+* :white_check_mark: [项目名]()：一句话说明(尽量保持在一行内) - [更多介绍]()
 ```
 GitHub 和 博客非必填。更多介绍也是非必填。
 
@@ -35,7 +35,7 @@ GitHub 和 博客非必填。更多介绍也是非必填。
 
 | 开发中 | 已上线 | 已关闭 |
 |--------|--------|--------|
-| :clock8: | :white_check_mark: | :x: |
+| :clock8: | :white_check_mark: | :negative_squared_cross_mark: |
 
 
 ## 4. 项目列表
