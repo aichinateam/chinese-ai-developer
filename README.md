@@ -40,6 +40,50 @@ GitHub 和 博客非必填。更多介绍也是非必填。
 
 （项目按时间排序，最新添加的在最上面）
   
+### 2018年8月1号添加
+---
+#### imhuay - [GitHub](https://github.com/imhuay)
+* :white_check_mark: [深度学习/机器学习面试笔记](https://github.com/imhuay/Deep_Learning_Interview_Notes-Chinese)：深度学习/机器学习面试问题整理 - [更多介绍](https://www.v2ex.com/t/473047#reply0)
+
+#### howl-anderson - [GitHub](https://github.com/howl-anderson), [博客](https://blog.xiaoquankong.ai/)
+* :white_check_mark: [MicroTokenizer](https://github.com/howl-anderson/MicroTokenizer)：一个面向教学的微型中文分词引擎 - [更多介绍](https://www.v2ex.com/t/463384#reply10)
+
+#### lianghyv - [GitHub](https://github.com/lianghyv)
+* :white_check_mark: [LightNet](https://github.com/lianghyv/lightnet)：
+一个最小化的深度学习框架 - [更多介绍](https://www.v2ex.com/t/468425)
+
+#### martinemal 
+* :white_check_mark: [vxcube](http://www.vxcube.com/)：一款使用机器学习算法帮助用户判断文件中是否存在恶意代码的检测平台，致力于为用户提供免费的恶意代码检测服务 - [更多介绍](https://www.v2ex.com/t/399987)
+
+#### arapat
+* :white_check_mark: [德塔赛](http://detasai.com/)：关注数据科学和机器学习的播客 - [更多介绍](https://www.v2ex.com/t/392124)
+
+#### Moevis - [GitHub](https://github.com/moevis), [博客](http://moevis.github.io/)
+* :white_check_mark: [What Is My Girlfriend Thinking ?](https://github.com/moevis/what-is-my-girlfriend-thinking)：纯 JS 五子棋 AI - [更多介绍](https://www.v2ex.com/t/456681)
+
+#### foodwake
+* :white_check_mark: [唤醒食物](http://www.foodwake.com/food/371)：直观图形化的食物营养成分与基于人工智能的科学食疗方案 - [更多介绍](https://www.v2ex.com/t/458802)
+
+#### xiaoli88
+* :white_check_mark: [小花儿人工智能](https://www.xiaohuaerai.com/)：图像识别创业项目 - [更多介绍](https://www.v2ex.com/t/432498#reply50)
+
+#### Coolwulf
+* :white_check_mark: [neuralrad.com](http://neuralrad.com/)：网友用50块GPU搭建的 AI 医疗图像早筛平台，可以检测乳腺癌X光片和肺结节CT，乳腺癌早筛 AI 准确率达 90% - 更多介绍：[1](https://www.v2ex.com/t/462641?p=4) [2](https://www.v2ex.com/t/470200) [3](https://www.jiqizhixin.com/articles/2018-06-16) [4](https://www.ifanr.com/1050406)
+
+#### 言川 - [GitHub](https://github.com/lihongxun945), [博客](http://lihongxun945.github.io/jquery-weui)
+* :white_check_mark: [五子棋AI](https://github.com/lihongxun945/gobang/)：纯 JS 五子棋 AI - [更多介绍](https://www.v2ex.com/t/467836)
+
+#### youmumzv2
+* :white_check_mark: [精灵标注助手](http://jl.shenjian.io/)：人工智能数据集标注必备工具 - [更多介绍](https://www.v2ex.com/t/429251)
+
+#### 专知
+* :white_check_mark: [专知](http://www.zhuanzhi.ai/)： zhuanzhi.ai，致力于为AI从业者提供一个优质纯粹、专业可信的AI知识分发服务平台！
+
+#### briefcopy
+* :white_check_mark: [机器学习从入门到精通的资料](https://www.v2ex.com/t/402392#reply0)：原创和整理了一些中英文机器学习从入门到精通的资料，和大家分享一下
+
+---
+  
 ### 2018年7月28号添加
 ---
 #### wb14123 - [GitHub](https://github.com/wb14123), [博客](http://www.binwang.me/)
